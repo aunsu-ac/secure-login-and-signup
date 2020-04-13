@@ -274,7 +274,7 @@ fit: true
 					<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
 				</ul>
 			</div>
-			<iframe src=""></iframe>
+			<iframe src="https://www.google.co.in/maps/place/University+Institute+Of+Technology+(UIT)/@23.2572991,87.8469059,19z/data=!4m5!3m4!1s0x39f8361a58dcc565:0x37a42f6b23df16cd!8m2!3d23.2572666!4d87.8467508?hl=en&authuser=0"></iframe>
 		</div>
 		<div class="clearfix"></div>
 	</div>
