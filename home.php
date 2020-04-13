@@ -113,37 +113,101 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agileits_banner_bottom">
 				<h3><span>Heading of cards</span> Some Attractive line </h3>
 			</div>
-			<div class="w3ls_banner_bottom_grids">
-				<ul class="cbp-ig-grid">
-					<li>
-						<div class="w3_grid_effect">
-							<span class="cbp-ig-icon w3_road"></span>
-							<h4 class="cbp-ig-title">Card 1</h4>
-							<span class="cbp-ig-category">Short details</span>
+			<div class="priceing-table-main">
+				 <div class="col-md-3 price-grid">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/r1.jpg" alt=" " class="img-responsive">
+							<h4>Deluxe Room</h4>
 						</div>
-					</li>
-					<li>
-						<div class="w3_grid_effect">
-							<span class="cbp-ig-icon w3_cube"></span>
-							<h4 class="cbp-ig-title">Card 2</h4>
-							<span class="cbp-ig-category">Short details</span>
+						<div class="price-gd-bottom">
+							   <div class="price-list">
+									<ul>
+											<li><i class="fa fa-star" aria-hidden="true"></i></li>
+											<li><i class="fa fa-star" aria-hidden="true"></i></li>
+											<li><i class="fa fa-star" aria-hidden="true"></i></li>
+											<li><i class="fa fa-star" aria-hidden="true"></i></li>
+											<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									
+								     </ul>
+							</div>
+							<div class="price-selet">	
+								<h3><span>$</span>320</h3>						
+								<a href="#availability-agileits" class="scroll">Book Now</a>
+							</div>
 						</div>
-					</li>
-					<li>
-						<div class="w3_grid_effect">
-							<span class="cbp-ig-icon w3_users"></span>
-							<h4 class="cbp-ig-title">Card 3</h4>
-							<span class="cbp-ig-category">Short details</span>
+					</div>
+				</div>
+				<div class="col-md-3 price-grid ">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/r2.jpg" alt=" " class="img-responsive">
+							<h4>Luxury Room</h4>
 						</div>
-					</li>
-					<li>
-						<div class="w3_grid_effect">
-							<span class="cbp-ig-icon w3_ticket"></span>
-							<h4 class="cbp-ig-title">Card 4</h4>
-							<span class="cbp-ig-category">Short details</span>
+						<div class="price-gd-bottom">
+							<div class="price-list">
+									<ul>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+								</ul>
+							</div>
+							<div class="price-selet">
+								<h3><span>$</span>220</h3>
+								<a href="#availability-agileits" class="scroll">Book Now</a>
+							</div>
 						</div>
-					</li>
-				</ul>
+					</div>
+				</div>
+				<div class="col-md-3 price-grid lost">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/r3.jpg" alt=" " class="img-responsive">
+							<h4>Guest House</h4>
+						</div>
+						<div class="price-gd-bottom">
+							<div class="price-list">
+								<ul>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+								</ul>
+							</div>
+							<div class="price-selet">
+								<h3><span>$</span>180</h3>
+								<a href="#availability-agileits" class="scroll">Book Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 price-grid wthree lost">
+					<div class="price-block agile">
+						<div class="price-gd-top ">
+							<img src="images/r4.jpg" alt=" " class="img-responsive">
+							<h4>Single Room</h4>
+						</div>
+						<div class="price-gd-bottom">
+							<div class="price-list">
+								<ul>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+								</ul>
+							</div>
+							<div class="price-selet">
+								<h3><span>$</span> 150</h3>
+								<a href="#availability-agileits" class="scroll">Book Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
 			</div>
 		</div>
 	</div>
